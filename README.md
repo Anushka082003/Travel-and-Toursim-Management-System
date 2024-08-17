@@ -1,53 +1,78 @@
-Overview
-The Travel and Tourism Management System is a software platform designed to facilitate the management and operation of travel-related services. This system allows travel agencies to manage customers, bookings, destinations, and packages efficiently. Built using Java, the platform includes various features to enhance the overall experience for both administrators and customers.
+<h1 style="text-align: center; font-family: Arial, sans-serif; color: #2c3e50;">🌍 Travel and Tourism Management System 🌍</h1>
 
-Features
-User Authentication: Secure login and signup functionality for users.
-Customer Management: Add, update, view, and delete customer information.
-Package Management: Create and manage travel packages, including booking and viewing options.
-Hotel Booking: Check available hotels and make reservations.
-Payment Processing: Integration with Paytm for seamless payments.
-Booking History: View and manage past bookings, including tickets and hotel reservations.
-Password Recovery: Forgot password functionality to recover user accounts.
+<p style="text-align: center; font-family: 'Open Sans', sans-serif; color: #34495e; font-size: 18px;">
+  A comprehensive solution to manage and operate travel-related services efficiently.
+</p>
 
-Technologies Used
-Programming Language: Java
-Database: MySQL (via JDBC for database connectivity)
-Build Tool: Apache Ant
-IDE: NetBeans or Eclipse
+<hr style="border: 1px solid #3498db; width: 80%;">
 
-Project Structure
-Source Files: Contains the Java classes for various modules like Login.java, Signup.java, BookHotel.java, etc.
-Configuration Files: Includes properties and XML files for project build and execution.
-Database Connectivity: Conn.java handles the connection to the MySQL database.
-Setup and Installation
+<h2 style="color: #2980b9;">🚀 Overview</h2>
+<p style="font-family: 'Open Sans', sans-serif; color: #2c3e50;">
+  The <strong>Travel and Tourism Management System</strong> is a software platform designed to facilitate the management and operation of travel-related services. This system allows travel agencies to manage customers, bookings, destinations, and packages efficiently.
+</p>
 
-Clone the Repository:
-git clone https://github.com/Anushka082003/Travel-and-Toursim-Management-System.git
+<h2 style="color: #2980b9;">✨ Features</h2>
+<ul style="font-family: 'Open Sans', sans-serif; color: #2c3e50;">
+  <li><strong>User Authentication:</strong> Secure login and signup functionality.</li>
+  <li><strong>Customer Management:</strong> Add, update, view, and delete customer information.</li>
+  <li><strong>Package Management:</strong> Create and manage travel packages.</li>
+  <li><strong>Hotel Booking:</strong> Check available hotels and make reservations.</li>
+  <li><strong>Payment Processing:</strong> Integration with Paytm for seamless payments.</li>
+  <li><strong>Booking History:</strong> View and manage past bookings.</li>
+  <li><strong>Password Recovery:</strong> Forgot password functionality.</li>
+</ul>
 
-Import the Project:
-Open your IDE (NetBeans/Eclipse).
-Import the project as an existing project.
+<h2 style="color: #2980b9;">🔧 Technologies Used</h2>
+<ul style="font-family: 'Open Sans', sans-serif; color: #2c3e50;">
+  <li><strong>Programming Language:</strong> Java</li>
+  <li><strong>Database:</strong> MySQL (via JDBC for database connectivity)</li>
+  <li><strong>Build Tool:</strong> Apache Ant</li>
+  <li><strong>IDE:</strong> NetBeans or Eclipse</li>
+</ul>
 
-Configure the Database:
-Create a MySQL database.
-Update the Conn.java file with your database credentials.
-Import the SQL schema provided in the project to set up the database tables.
+<h2 style="color: #2980b9;">📂 Project Structure</h2>
+<p style="font-family: 'Open Sans', sans-serif; color: #2c3e50;">
+  The project is organized into source files, configuration files, and database connectivity classes. Key files include:
+</p>
+<ul style="font-family: 'Open Sans', sans-serif; color: #2c3e50;">
+  <li><strong>Source Files:</strong> Java classes like <code>Login.java</code>, <code>Signup.java</code>, <code>BookHotel.java</code>.</li>
+  <li><strong>Configuration Files:</strong> Properties and XML files for build and execution.</li>
+  <li><strong>Database Connectivity:</strong> <code>Conn.java</code> handles MySQL database connections.</li>
+</ul>
 
-Build and Run:
-Use Apache Ant or your IDE to build the project.
-Run the project to start the Travel and Tourism Management System.
+<h2 style="color: #2980b9;">⚙️ Setup and Installation</h2>
+<ol style="font-family: 'Open Sans', sans-serif; color: #2c3e50;">
+  <li><strong>Clone the Repository:</strong>
+    <pre style="background-color: #ecf0f1; padding: 10px; border-radius: 5px;">git clone https://github.com/Anushka082003/Travel-and-Toursim-Management-System.git</pre>
+  </li>
+  <li><strong>Import the Project:</strong> Import the project into your IDE (NetBeans/Eclipse).</li>
+  <li><strong>Configure the Database:</strong> Update <code>Conn.java</code> with your database credentials and import the SQL schema.</li>
+  <li><strong>Build and Run:</strong> Use Apache Ant or your IDE to build and run the project.</li>
+</ol>
 
-How to Use
-Login/Signup: Users can create an account or log in to access the system.
-Book a Package: Browse available packages and book the one that suits your needs.
-Hotel Reservations: Search for hotels and make a reservation.
-View Bookings: Check your past bookings and manage your travel plans.
+<h2 style="color: #2980b9;">🛠️ How to Use</h2>
+<ul style="font-family: 'Open Sans', sans-serif; color: #2c3e50;">
+  <li><strong>Login/Signup:</strong> Create an account or log in to access the system.</li>
+  <li><strong>Book a Package:</strong> Browse available packages and make a booking.</li>
+  <li><strong>Hotel Reservations:</strong> Search for and reserve hotels.</li>
+  <li><strong>View Bookings:</strong> Manage your past bookings and travel plans.</li>
+</ul>
 
-Contributing
-Contributions are welcome! Please submit a pull request or open an issue to discuss changes.
+<h2 style="color: #2980b9;">🤝 Contributing</h2>
+<p style="font-family: 'Open Sans', sans-serif; color: #2c3e50;">
+  Contributions are welcome! Please submit a pull request or open an issue to discuss changes.
+</p>
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+<h2 style="color: #2980b9;">📜 License</h2>
+<p style="font-family: 'Open Sans', sans-serif; color: #2c3e50;">
+  This project is licensed under the MIT License. See the <code>LICENSE</code> file for more details.
+</p>
+
+<hr style="border: 1px solid #3498db; width: 80%;">
+
+<p style="text-align: center; font-family: 'Open Sans', sans-serif; color: #2c3e50; font-size: 14px;">
+  © 2024 Anushka Rakshe - All rights reserved.
+</p>
+
 
 
