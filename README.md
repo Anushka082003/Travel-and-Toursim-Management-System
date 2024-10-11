@@ -63,10 +63,7 @@
   Contributions are welcome! Please submit a pull request or open an issue to discuss changes.
 </p>
 
-<h2 style="color: #2980b9;">📜 License</h2>
-<p style="font-family: 'Open Sans', sans-serif; color: #2c3e50;">
-  This project is licensed under the MIT License. See the <code>LICENSE</code> file for more details.
-</p>
+
 
 <hr style="border: 1px solid #3498db; width: 80%;">
 
