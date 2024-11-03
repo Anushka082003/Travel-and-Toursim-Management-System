@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-family: Arial, sans-serif; color: #2c3e50;">🌍 TravelXpert : Travel and Tourism Management System 🌍</h1>
+<h1 style="text-align: center; font-family: Arial, sans-serif; color: #2c3e50;">🌍 TravelXpert:Travel and Tourism Management System 🌍</h1>
 
 <p style="text-align: center; font-family: 'Open Sans', sans-serif; color: #34495e; font-size: 18px;">
   A comprehensive solution to manage and operate travel-related services efficiently.
